@@ -30,9 +30,6 @@ function addball(event)
   new Ball (source,game,quntity,name,random)
   render()
   savetoLocalstorge();
-  console.log(Ball.Balls)
-  console.log(source)
-
 
 }
 
